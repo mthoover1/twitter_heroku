@@ -1,0 +1,23 @@
+.container-container {
+  margin: 20px auto;
+  width: 720px;
+  padding: 20px;
+  border: 1px outset #DCDCDC;
+  box-shadow: 0 0 20px #DCDCDC  
+}
+
+.container {
+  padding-top: 40px;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+  color: #222;
+  margin-bottom: 30px;
+  text-shadow: 0 0 3px #888;
+}
+
+input {
+  width: 100%;
+}
